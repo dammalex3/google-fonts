@@ -1,0 +1,29 @@
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+.thought1 {
+    font-family: 'Slabo 27px', serif;
+    line-height: 25px;
+}
+
+.thought2 {
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 2px;
+}
+
+.thought3 {
+    font-family: 'Baloo Bhaijaan', cursive;
+}
+
+h4 {
+    font-size: 20px;
+    color: lightslategrey;
+    line-height: 20px;
+    margin: 1px;
+}
+
+h1 {
+    color: lightslategrey;
+}
